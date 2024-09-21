@@ -6,12 +6,12 @@ This repository contains my solutions to the problem sets and additional code ex
 
 The repository is organized into folders based on the course weeks:
 
-- **Week 1:** C basics, conditions, loops, and functions.
-- **Week 2:** Arrays, strings, and encryption (Caesar, Substitution).
-- **Week 3:** Algorithms, searching, sorting (Linear search, Binary search, Bubble sort).
-- **Week 4:** Memory, pointers, dynamic memory allocation, and file I/O.
-- **Week 5:** Data structures (Linked lists, Hash tables).
-- **Week 6+:** Web programming, Python, and additional topics.
+- [x]  **Week 1:** C basics, conditions, loops, and functions.
+- [x] **Week 2:** Arrays, strings, and encryption (Caesar, Substitution).
+- [ ] **Week 3:** Algorithms, searching, sorting (Linear search, Binary search, Bubble sort).
+- [ ] **Week 4:** Memory, pointers, dynamic memory allocation, and file I/O.
+- [ ] **Week 5:** Data structures (Linked lists, Hash tables).
+- [ ] **Week 6+:** Web programming, Python, and additional topics.
 
 Each folder contains:
 
